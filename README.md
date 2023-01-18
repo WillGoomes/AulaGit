@@ -1,2 +1,2 @@
 # AulaGit
-Repositorio para praticar o curso
+Repositório para praticar o curso
